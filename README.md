@@ -1,3 +1,5 @@
 # Deep learning 
 
-Génération de légende pour des images de pokémon.
+Génération de légende pour des images de pokémon. 
+
+N'hésitez pas à me contacter si vous souhaitez avoir accès au dataset ou au paramètres du réseau après entraînement.
